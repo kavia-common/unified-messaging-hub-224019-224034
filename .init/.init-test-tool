@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/unified-messaging-hub-224019-224034/react_frontend"
+}
